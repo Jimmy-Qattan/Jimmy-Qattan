@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Jimmy-Qattan
-- 👀 I’m interested in Coding in C++, Javascript, Lifting, Skateboarding, and Studying Physics/Calculus.
-- 🌱 I’m currently learning C++, More Javascript, and More Physics.
-- 💞️ I’m looking to collaborate on nothing. I'm 14.
+Jimmy Qattan, 14 y/o, love to code in Arduino, Html, Javascript, maybe CSS.
 
-<!---
-Jimmy-Qattan/Jimmy-Qattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mostly using Croquet, Aframe, Glitch, Arduino, and some other products I may use in the future!
+
+Feel free to contact me on twitter - @jimmy_qattan
