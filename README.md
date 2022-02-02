@@ -1,4 +1,4 @@
-Jimmy Qattan, 14 y/o, love to code in Arduino, Html, Javascript, maybe CSS.
+Jimmy Qattan, 15 y/o, love to code in Arduino, Html, Javascript, maybe CSS.
 
 Mostly using Croquet, Aframe, Glitch, Arduino, and some other products I may use in the future!
 
